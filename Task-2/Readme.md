@@ -7,6 +7,7 @@ Submit the link to the Figma file in a .txt file and place the file in "TASK 2" 
 Follow the PR Template.
 
 DEADLINE: 19 FEB 11:59 PM
+<br>
 ![Product Page - Preview](https://user-images.githubusercontent.com/52004311/154549468-e3d65050-82f4-4bb9-a4b4-2b840ae49664.png)
 ![Product Page](https://user-images.githubusercontent.com/52004311/154549477-d108c00d-c2ce-44a2-a2fb-44e70f1e985f.png)
 ![Cartlet - Address Added](https://user-images.githubusercontent.com/52004311/154549483-578539e6-a9e4-4ccf-8bbd-e183020ca4c0.png)

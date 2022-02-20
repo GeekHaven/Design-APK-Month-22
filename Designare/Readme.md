@@ -14,7 +14,7 @@ Tip: Start working on this screen after the graphic design workshop on 20th Febr
 3.  **Third Screen** - Make another screen/section for the app which you think is the second most important section for the app to function after the home screen. Use your discretion to decide which section out of the remaining holds maximum importance and implement it using your design skills.
 
 
-Submit the link to the figma file containing both the screens in .txt file and place the file in the “Design Contest” Folder only.
+Submit the link to the figma file containing both the screens in .txt file and place the file in the “Designare” Folder only.
 
 _**Note: Make sure that your design and all the design elements are original and  haven't been copied/picked directly from the internet. Use the internet for gathering inspiration only.**_
 

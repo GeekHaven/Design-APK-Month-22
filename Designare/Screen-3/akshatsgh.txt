@@ -1,0 +1,7 @@
+Akshat Singh
+https://www.figma.com/file/paW8vISD8BbN406CqfXhON/Designare-Screen3?node-id=0%3A1
+
+
+The screen which shows the profile of mentor with important details like experience, available slots and reviews is second most important
+screen of the app because this is the main purpose of the app to search for mentor and book a meeting with him/her. Without this screen we 
+will be unable to know about mentor and then we will be choosing our mentor blindly. 

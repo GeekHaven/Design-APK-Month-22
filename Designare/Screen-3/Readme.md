@@ -1,0 +1,2 @@
+**Third Screen** - Make another screen/section for the app which you think is the second most important section for the app to function after the home screen. Use your discretion to decide which section out of the remaining holds maximum importance and implement it using your design skills. Also, state the reason why you think this screen is the second most important screen in the txt file itself.
+**Points: 50**

@@ -1,0 +1,20 @@
+Screen - 3
+
+Second Most Important Page of Mentor App 
+
+
+
+
+
+https://www.figma.com/file/ma77a5IOHzKLxtgl7SIMXA/Screen-3?node-id=0%3A1
+
+
+
+
+
+
+
+
+It is the Second Most Important Page as It Contains The Details Of The Mentor Which We Want to be as Our Mentor. The Page Displays Profile of Mentor, The reason why the profile of the mentor is a very Important page is That out of all the mentors to choose from we should get a deep insight into the mentor, his/her qualifications and if he/she would suit your requirement. 
+The Page Has the Option To Follow the Mentor, Check Availability Of Mentor For Video Meetings And Classes. It also Has A section To Get the Reviews Of Students About Them And there is A section Which Shows The experience of a Mentor Like  In What Firms Or Companies He/She Have Done Their Work.
+So After getting ThismUh Information About The Mentor We can Choose the Right one And interact with Him/her By A Chat option or By Meetings After Checking Availability.

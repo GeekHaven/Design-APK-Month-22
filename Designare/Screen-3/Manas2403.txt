@@ -1,0 +1,9 @@
+Screen-3 
+
+https://www.figma.com/file/HxSyySv8J8XfyQtavfRE39/Designare?node-id=0%3A1
+
+It is the second most important screen in my app because when a user is searching for a mentor in home
+screen and want to know more details about the mentor and schedule a meet with him/her  it will take the user
+to the screen where all the info about the mentor is available 
+like the available slots in which he can schedule the meet,chat with the mentor and connect with the mentor on social media 
+platforms ,can read reviews and his/her experience.

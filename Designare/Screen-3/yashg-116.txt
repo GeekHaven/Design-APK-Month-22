@@ -1,0 +1,6 @@
+Name: Yash Gupta
+Roll no.: IEC2021064
+Figma link: https://www.figma.com/file/UGgx7pyQmmuWKPhoBxWVk6/View-Mentors-Screeen?node-id=0%3A1
+
+Reason: Since our main aim behind this app is to interact with mentors, so the person will first go to view mentors option
+        and then scheduke the meet from there.

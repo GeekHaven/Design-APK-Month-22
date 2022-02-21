@@ -1,7 +1,0 @@
-https://www.figma.com/file/t7njjTMxwwKs1GAM72Aosl/Untitled?node-id=0%3A1
-
-This is the 3rd screen which i consider to be the most important screen after the home screen.
-This screen depicts the recommended mentors after the user selects a particular skill that he/she wants to learn.
-This screen also allows the user to send request to the mentor from whom the user wants to learn.
-After the request is accepted by the mentor, the user can select the date and time of the meeting.
-And after that finally a meeting link is generated so that the user can join the meeting at that particular time.

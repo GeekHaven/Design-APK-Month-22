@@ -1,0 +1,6 @@
+2nd Most Imp Screen
+
+Figma Link:
+https://www.figma.com/file/h6JcNCLZwZbHOXuTHWQxe2/2nd-Most-Imp-Screen?node-id=0%3A1
+
+The 2nd most important screen according to me is- which shows the profile of mentor with important details like experience, available slots and reviews and ratings etc . With This Screen User Can Choose The Best Mentor Suitable For Him/Her.
